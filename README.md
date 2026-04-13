@@ -4,7 +4,6 @@
 A Java console application for fairly splitting players into balanced football teams, with full player stat tracking.
 
 Built by Damian Ciumacenco — Maynooth University
-
 ---
 
 ## ✨ Features
