@@ -1,5 +1,5 @@
 # ⚽ Football Team Balancer
-# Attempt 3, added features and improvment to code ( goal tracking and others)
+# Attempt number 3, added features and improvment to code ( goal tracking and others)
 
 A Java console application for fairly splitting players into balanced football teams, with full player stat tracking.
 
